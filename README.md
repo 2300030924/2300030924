@@ -11,11 +11,17 @@ AI models, backend logic, and cloud foundations come together.
 
 ---
 
-## 🧭 Engineering Mindset
-- I like working on **end-to-end systems**, not isolated scripts  
-- I value **clean design, modular pipelines, and clarity**  
-- I enjoy translating **theory into practical tools**  
-- I believe good software is **simple, structured, and explainable**
+## 👩‍💻 About Me
+
+Computer Science student focused on AI systems, backend development, and cloud technologies
+
+Hands-on experience building end-to-end AI applications such as knowledge retrieval systems, speech-based systems, and ML-powered web apps
+
+Strong in Python and Java with practical exposure to backend development and RESTful APIs
+
+Cloud certified with working knowledge of AWS, Docker, and CI/CD pipelines
+
+Actively improving data structures, algorithms, and problem-solving skills
 
 ---
 
