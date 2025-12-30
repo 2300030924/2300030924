@@ -64,13 +64,13 @@ AI-powered internal document assistant built using retrieval-based generation te
 🎙️ **[VoxDetect](https://github.com/2300030924/VoxDetect)**  
 Speaker diarization and speech recognition system for multi-speaker audio  
 
-❤️ **[Heart Disease Classification System](https://github.com/2300030924/Heart-Disease-Classification-System)**  
+❤️ **[Heart Disease Classification System](https://github.com/2300030924/HeartDisease-Project-.git)**  
 Machine learning–based system to predict heart disease risk through a web interface  
 
-🧠 **[Emotion Detection through Text](https://github.com/2300030924/Emotion-Detection-through-Text)**  
-NLP-based emotion detection system analyzing textual input  
+🧠 **[Fraud Detection](https://github.com/2300030924/Fraud-Detection.git)**  
+Machine learning–based system to identify fraudulent patterns in data
 
-
+---
 
 
 
