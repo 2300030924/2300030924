@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋, I'm Bhavya Sri</h2>
+<h2 align="left">Hi 👋, I'm Bhavya Sri Rachamadugu</h2>
 
 <p align="left">
 Computer Science student who enjoys building <b>intelligent systems</b> where  
@@ -13,10 +13,11 @@ AI models, backend logic, and cloud foundations come together.
 
 ## 👩‍💻 About Me
 🔹 Computer Science student focused on AI systems, backend development, and cloud technologies  
-🔹 Hands-on experience building end-to-end AI applications such as knowledge retrieval systems, speech-based systems, and ML-powered web apps  
-🔹 Strong in Python and Java with practical exposure to backend development and RESTful APIs  
-🔹 Cloud certified with working knowledge of AWS, Docker, and CI/CD pipelines  
-🔹 Actively improving data structures, algorithms, and problem-solving skills  
+🔹 Experience building end-to-end AI applications and ML-based systems  
+🔹 Strong in Python and Java with backend API development experience  
+🔹 AWS certified with hands-on cloud and CI/CD exposure  
+🔹 Actively strengthening data structures, algorithms, and problem-solving skills  
+
 
 
 ---
