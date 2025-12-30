@@ -1,8 +1,7 @@
 <h2 align="left">Hi 👋, I'm Bhavya Sri Rachamadugu</h2>
 
 <p align="left">
-Computer Science student who enjoys building <b>intelligent systems</b> where  
-AI models, backend logic, and cloud foundations come together.
+Computer Science student building scalable AI and backend systems with cloud technologies.
 </p>
 
 📍 Guntur, Andhra Pradesh  
