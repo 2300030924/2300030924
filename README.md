@@ -56,7 +56,7 @@ Actively improving data structures, algorithms, and problem-solving skills
 
 ---
 
-## 🛠️ Selected Projects
+## 🛠️ Projects
 
 ### 🧠 Internal Knowledge Navigator
 **AI-powered internal document assistant**
