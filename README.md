@@ -58,34 +58,21 @@ Actively improving data structures, algorithms, and problem-solving skills
 
 ## 🛠️ Projects
 
-### 🧠 Internal Knowledge Navigator
-**AI-powered internal document assistant**
+💼 **[Internal Knowledge Navigator](https://github.com/2300030924/Internal-Knowledge-Navigator)**  
+AI-powered internal document assistant built using retrieval-based generation techniques  
 
-- Retrieval-Augmented Generation for accurate responses  
-- Modular pipeline: ingestion → embeddings → retrieval → generation  
-- Structured JSON outputs for system integration  
-- Designed with scalability and extensibility in mind  
+🎙️ **[VoxDetect](https://github.com/2300030924/VoxDetect)**  
+Speaker diarization and speech recognition system for multi-speaker audio  
 
----
+❤️ **[Heart Disease Classification System](https://github.com/2300030924/Heart-Disease-Classification-System)**  
+Machine learning–based system to predict heart disease risk through a web interface  
 
-### 🎧 VoxDetect
-**Speaker diarization & ASR system**
+🧠 **[Emotion Detection through Text](https://github.com/2300030924/Emotion-Detection-through-Text)**  
+NLP-based emotion detection system analyzing textual input  
 
-- Target speaker identification in multi-speaker audio  
-- Voice Activity Detection + speaker separation  
-- Whisper-based transcription with punctuation restoration  
-- Supports batch and streaming workflows  
 
----
 
-### ❤️ Heart Disease Classification System
-**ML-driven decision support application**
 
-- Deep learning model for heart disease prediction  
-- Flask backend with interactive frontend  
-- Optimized for real-time inference  
-
----
 
 ## 📜 Certifications & Foundations
 - ☁️ AWS Certified Cloud Practitioner (CLF-C02)  
