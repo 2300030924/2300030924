@@ -12,47 +12,23 @@ AI models, backend logic, and cloud foundations come together.
 ---
 
 ## 👩‍💻 About Me
+🔹 Computer Science student focused on AI systems, backend development, and cloud technologies  
+🔹 Hands-on experience building end-to-end AI applications such as knowledge retrieval systems, speech-based systems, and ML-powered web apps  
+🔹 Strong in Python and Java with practical exposure to backend development and RESTful APIs  
+🔹 Cloud certified with working knowledge of AWS, Docker, and CI/CD pipelines  
+🔹 Actively improving data structures, algorithms, and problem-solving skills  
 
-Computer Science student focused on AI systems, backend development, and cloud technologies
-
-Hands-on experience building end-to-end AI applications such as knowledge retrieval systems, speech-based systems, and ML-powered web apps
-
-Strong in Python and Java with practical exposure to backend development and RESTful APIs
-
-Cloud certified with working knowledge of AWS, Docker, and CI/CD pipelines
-
-Actively improving data structures, algorithms, and problem-solving skills
 
 ---
 
 ## 🧩 Skill Stack
 
-### 🖥️ Programming
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+🔹 **Programming:** Java, Python, C  
+🔹 **AI & ML:** Deep Learning, NLP, Speech Processing, RAG  
+🔹 **Backend:** Flask, Spring Boot, REST APIs  
+🔹 **Databases:** SQL, MySQL, Amazon RDS  
+🔹 **Cloud & Tools:** AWS, Docker, Jenkins, Git  
 
-### 🤖 AI & Intelligent Systems
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-8A2BE2)
-![NLP](https://img.shields.io/badge/NLP-4B0082)
-![Speech](https://img.shields.io/badge/Speech%20Processing-483D8B)
-![RAG](https://img.shields.io/badge/RAG%20Pipelines-2F4F4F)
-
-### ⚙️ Backend & APIs
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
-![REST](https://img.shields.io/badge/REST%20APIs-2C3E50)
-
-### 🗄️ Databases
-![SQL](https://img.shields.io/badge/SQL-003B57)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Amazon RDS](https://img.shields.io/badge/Amazon%20RDS-527FFF?style=flat&logo=amazonaws&logoColor=white)
-
-### ☁️ Cloud & Engineering Tools
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
 
