@@ -70,8 +70,9 @@ Focus: **Data Structures, logical patterns, consistency**
 ---
 
 ## 🤝 Contact
-📧 bhavyasri.r16@gmail.com  
-💻 https://github.com/2300030924  
+🔹 Email: bhavyasri.r16@gmail.com  
+🔹 LinkedIn: https://www.linkedin.com/in/rbhavyasri  
+🔹 GitHub: https://github.com/2300030924  
 
 ---
 
