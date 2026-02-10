@@ -37,6 +37,9 @@ Computer Science student building scalable AI and backend systems with cloud tec
 💼 **[Internal Knowledge Navigator](https://github.com/2300030924/Internal-Knowledge-Navigator)**  
 AI-powered internal document assistant built using retrieval-based generation techniques  
 
+🚗 **[Vehicle Detection Counting And Tracking](https://github.com/2300030924/vehicle-detection-tracking.git)**  
+Real-time vehicle detection, tracking, and counting using YOLOv8 and OpenCV.
+
 🎙️ **[VoxDetect](https://github.com/2300030924/VoxDetect)**  
 Speaker diarization and speech recognition system for multi-speaker audio  
 
