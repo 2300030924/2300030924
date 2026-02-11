@@ -49,6 +49,9 @@ Machine learning–based system to predict heart disease risk through a web inte
 🧠 **[Fraud Detection](https://github.com/2300030924/Fraud-Detection.git)**  
 Machine learning–based system to identify fraudulent patterns in data
 
+🫁 **[PneumoVision AI](https://github.com/2300030924/PneumoVision-AI.git)**  
+Deep learning–based pneumonia detection system using fine-tuned ResNet18 and Flask deployment.
+
 ---
 
 
