@@ -37,8 +37,14 @@ Computer Science student building scalable AI and backend systems with cloud tec
 💼 **[Internal Knowledge Navigator](https://github.com/2300030924/Internal-Knowledge-Navigator)**  
 AI-powered internal document assistant built using retrieval-based generation techniques  
 
+🛒 **[ShopSphere – Full Stack E-commerce Platform](https://github.com/2300030924/shopsphere-ecommerce.git)**  
+Full-stack e-commerce application built with Spring Boot and React featuring secure APIs and order workflows  
+
 🚗 **[Vehicle Detection Counting And Tracking](https://github.com/2300030924/vehicle-detection-tracking.git)**  
 Real-time vehicle detection, tracking, and counting using YOLOv8 and OpenCV.
+
+🫁 **[PneumoVision AI](https://github.com/2300030924/PneumoVision-AI.git)**  
+Deep learning–based pneumonia detection system using fine-tuned ResNet18 and Flask deployment.
 
 🎙️ **[VoxDetect](https://github.com/2300030924/VoxDetect)**  
 Speaker diarization and speech recognition system for multi-speaker audio  
@@ -49,8 +55,7 @@ Machine learning–based system to predict heart disease risk through a web inte
 🧠 **[Fraud Detection](https://github.com/2300030924/Fraud-Detection.git)**  
 Machine learning–based system to identify fraudulent patterns in data
 
-🫁 **[PneumoVision AI](https://github.com/2300030924/PneumoVision-AI.git)**  
-Deep learning–based pneumonia detection system using fine-tuned ResNet18 and Flask deployment.
+
 
 ---
 
