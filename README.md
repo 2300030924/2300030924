@@ -1,7 +1,7 @@
 <h2 align="left">Hi 👋, I'm Bhavya Sri Rachamadugu</h2>
 
 <p align="left">
-Computer Science student building scalable AI and backend systems with cloud technologies.
+I build AI-powered systems and scalable backend applications using modern cloud technologies.
 </p>
 
 📍 Guntur, Andhra Pradesh  
@@ -24,7 +24,7 @@ Computer Science student building scalable AI and backend systems with cloud tec
 ## 🧩 Skill Stack
 
 🔹 **Programming:** Java, Python, C  
-🔹 **AI & ML:** Deep Learning, NLP, Speech Processing, RAG  
+🔹 **AI & ML:** Deep Learning, Computer Vision, RAG, NLP, Speech Processing
 🔹 **Backend:** Flask, Spring Boot, REST APIs  
 🔹 **Databases:** SQL, MySQL, Amazon RDS  
 🔹 **Cloud & Tools:** AWS, Docker, Jenkins, Git  
@@ -35,7 +35,7 @@ Computer Science student building scalable AI and backend systems with cloud tec
 ## 🛠️ Projects
 
 💼 **[Internal Knowledge Navigator](https://github.com/2300030924/Internal-Knowledge-Navigator)**  
-AI-powered internal document assistant built using retrieval-based generation techniques  
+RAG-based document assistant using LLMs and vector search for semantic retrieval   
 
 🛒 **[ShopSphere – Full Stack E-commerce Platform](https://github.com/2300030924/shopsphere-ecommerce.git)**  
 Full-stack e-commerce application built with Spring Boot and React featuring secure APIs and order workflows  
@@ -53,7 +53,7 @@ Speaker diarization and speech recognition system for multi-speaker audio
 Machine learning–based system to predict heart disease risk through a web interface  
 
 🧠 **[Fraud Detection](https://github.com/2300030924/Fraud-Detection.git)**  
-Machine learning–based system to identify fraudulent patterns in data
+Machine learning system for detecting anomalies in transactional data  
 
 
 
@@ -74,16 +74,17 @@ Machine learning–based system to identify fraudulent patterns in data
 ---
 
 ## 🧠 Problem Solving
-🏆 LeetCode: https://leetcode.com/u/klu2300030924  
+   LeetCode: https://leetcode.com/u/klu2300030924  
+   CodeChef: https://www.codechef.com/users/kl2300030924
 Focus: **Data Structures, logical patterns, consistency**
 
 ---
 
 ## 🤝 Contact
-🔹 Email: bhavyasri.r16@gmail.com  
+🔹 Email: 2300030924cseh@gmail.com  
 🔹 LinkedIn: https://www.linkedin.com/in/rbhavyasri  
 🔹 GitHub: https://github.com/2300030924  
 
 ---
 
-🌱 <i>Strong foundations today. Scalable systems tomorrow.</i>
+🌱 <i>Building systems that work. Learning to make them scale.</i>
