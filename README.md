@@ -74,9 +74,10 @@ Machine learning system for detecting anomalies in transactional data
 ---
 
 ## 🧠 Problem Solving
-   LeetCode: https://leetcode.com/u/klu2300030924  
-   CodeChef: https://www.codechef.com/users/kl2300030924
-Focus: **Data Structures, logical patterns, consistency**
+LeetCode: https://leetcode.com/u/klu2300030924  
+CodeChef: https://www.codechef.com/users/kl2300030924
+   
+Focus: **Data Structures, algorithmic thinking, and consistency**
 
 ---
 
